@@ -1,4 +1,4 @@
-float a, d ;
+float a;
 
 void setup(){
   size(700,500);
